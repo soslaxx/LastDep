@@ -1,0 +1,22 @@
+{
+  "WWidth": 1920,
+  "WHeight": 1080,
+  "WTitle": "LastDep",
+  "WFullScreen": true,
+  "InitSatoshi": 120,
+  "Initspin_left": 7,
+  "Initrnds": 3,
+  "InitDebt": 120,
+  "InitMultiply": 1,
+  "InitComMultiply": 1,
+  "InitTickets": 5,
+  "InitInterest": 10,
+  "InitCharmSlots": 4,
+  "InitLuck": 6,
+  "Enablept": true,
+  "Enableshk": true,
+  "InitSpins": 7,
+  "InitRounds": 3,
+  "EnableParticles": true,
+  "EnableShake": true
+}

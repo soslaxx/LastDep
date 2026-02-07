@@ -34,3 +34,4 @@ python main.py
 - Расскажите друзьям  
 - Предложите идеи для улучшения   
 - Сделано с ❤️ и большим количеством чефирочка ☕   
+![cryptohomyak](https://github.com/soslaxx/LastDep/blob/main/cryptohomyak.jpg?raw=true)
